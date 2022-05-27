@@ -26,6 +26,6 @@ serviceID=PUTSERVICEIDHERE
 A sample usage can be found in index.js.
 
 ## Sample Output
-The following is a sample output when index.js is ran.
+The following is a sample output when index.js is ran:
 
 <img width="658" src="https://user-images.githubusercontent.com/65431368/170770032-fb7d5667-9525-4b80-a15c-9d1e8d0281a0.png">
